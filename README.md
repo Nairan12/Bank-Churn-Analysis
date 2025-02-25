@@ -1,4 +1,4 @@
-# Bank Churn Analysis Dashboard – 
+# Bank Churn Analysis Dashboard 
 A comprehensive Power BI project that provides valuable insights into customer churn patterns at a bank. This dashboard analyzes key metrics like customer demographics, account balances, and churn rates to help identify why customers leave the bank and what factors impact churn.
 
 ## Problem Statement:
